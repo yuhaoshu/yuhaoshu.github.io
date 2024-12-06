@@ -22,7 +22,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  margin: 2em 0 0.5em;
+  margin: 1.6em 0 0.5em;
   line-height: 1.2;
   font-family: $header-font-family;
   font-weight: bold;
@@ -38,18 +38,22 @@ h2 {
 }
 
 h3 {
+  margin-top: 0.5em;
   font-size: $type-size-5;
 }
 
 h4 {
+  margin-top: 0;
   font-size: $type-size-6;
 }
 
 h5 {
+  margin-top: 0;
   font-size: $type-size-6;
 }
 
 h6 {
+  margin-top: 0;
   font-size: $type-size-6;
 }
 
@@ -312,4 +316,9 @@ nav {
 b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a, tr, td, form button, input[type="submit"], .btn, .highlight, .archive__item-teaser {
   -webkit-transition: $global-transition;
   transition: $global-transition;
+}
+
+li em {
+  // font-weight: 400;
+  font-family: Roboto, 'Helvetica Neue', -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
 }
