@@ -39,6 +39,7 @@
 
 .page__title {
   margin-top: 0.6em;
+  margin-bottom: 0;
   line-height: 1;
 
   & + .page__meta {
@@ -54,7 +55,7 @@
 .page__content {
 
   h2 {
-    padding-bottom: 0.5em;
+    padding-bottom: 0.2em;
     border-bottom: 1px solid $border-color;
   }
 
