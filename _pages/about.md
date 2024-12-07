@@ -18,14 +18,17 @@ Yuhao Shu received the B.S. degree in microelectronics science and engineering f
 Memory, Computing-in-Memory, Cryogenic CMOS Circuits
 
 ## Education Experience
-Sep. 2019 - Dec. 2024: **University of Chinese Academy of Sciences/ShanghaiTech University**
+Sep. 2019 - Dec. 2024: **ShanghaiTech University & University of Chinese Academy of Sciences (UCAS)**
 * **Ph.D.** in Electronic Science and Technology
 * Dissertation: **Design and Optimization of Memory and In-Memory Computing Circuits for Cryogenic CMOS**
+  - Excellent Dissertation
   -  Supervisor: Prof. [Yajun Ha](https://sist.shanghaitech.edu.cn/hayj/main.htm)
+* Outstanding Student Leader of UCAS (2023, 2024)
 * First-Prize Scholarship of Zhangjiang  Laboratory (2022, 2023, 2024)
 
 Sep. 2015 - Jun. 2019: **Hefei University of Technology (HFUT)**
 * **B.S.** in Electronic Science and Technology 
+* HFUT Outstanding Graduate
 
 ## Academic Services
 ### Reviewer
