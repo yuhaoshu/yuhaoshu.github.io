@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-**Ph.D. Student**
+**Doctor of Philosophy**
 
 *School of Information Science and Technology (SIST)*   
 *ShanghaiTech University*
