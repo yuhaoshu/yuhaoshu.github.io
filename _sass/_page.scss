@@ -22,8 +22,8 @@
     // @include prefix(0.5 of 12);
     // @include suffix(2 of 12);
     @include span(10 of 12 last);
-    @include prefix(0.6 of 12);
-    // @include suffix(0.5 of 12);
+    @include prefix(0.58 of 12);
+    @include suffix(0.40 of 12);
   }
 
   .page__inner-wrap {
