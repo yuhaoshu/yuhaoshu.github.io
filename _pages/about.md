@@ -20,7 +20,7 @@ His current research interests include embedded memory design, in-memory computi
 Integrated Circuit Design, Embedded Memory Circuit, In-Memory Computing, Cryogenic CMOS Circuits
 
 ## Education Experience
-Sep. 2019 - Dec. 2024: **ShanghaiTech University & University of Chinese Academy of Sciences (UCAS)**
+Sep. 2019 - Jan. 2025: **ShanghaiTech University & University of Chinese Academy of Sciences (UCAS)**
 * **Ph.D.** in Electronic Science and Technology
 * Dissertation: **Design and Optimization of Memory and In-Memory Computing Circuits for Cryogenic CMOS**
   - Excellent Dissertation
