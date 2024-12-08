@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile1.jpg"
   name             : "Yuhao Shu"
-  pronouns         : "her"  
+  pronouns         : # example: "she/her"  
   bio              : "Ph.D. in EE, ShanghaiTech University"
   location         : "Shanghai, China"
   employer         : "ShanghaiTech University"
