@@ -17,7 +17,7 @@ Yuhao Shu (Graduate Student Member, IEEE) received the B.S. degree in microelect
 His current research interests include embedded memory design, in-memory computing, cryogenic CMOS circuits, and energy-efficient circuit and system designs.
 
 ## Research Interests
-Integrated Circuit Design, Embedded Memory Circuit, In-Memory Computing, Cryogenic CMOS Circuits
+AI Chips, Memory Circuit Designs, Compute-in-Memory, Cryogenic CMOS Circuits 
 
 ## Education Experience
 Sep. 2019 - Jan. 2025: **ShanghaiTech University & University of Chinese Academy of Sciences (UCAS)**
