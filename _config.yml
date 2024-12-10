@@ -36,9 +36,9 @@ author:
   impactstory      : # URL
   orcid            : https://orcid.org/0000-0002-0357-4507
   semantic         : # URL
-  pubmed           : # URL
+  pubmed           : https://ieeexplore.ieee.org/author/37088852532
   researchgate     : # URL
-  scopus           : # URL
+  scopus           : # URL 
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
