@@ -12,7 +12,7 @@ redirect_from:
 *School of Information Science and Technology (SIST)*   
 *ShanghaiTech University*
 
-**Yuhao Shu** (Member, IEEE) received the B.S. degree in microelectronics science and engineering from the Hefei University of Technology, Hefei, China, in 2019, 
+Yuhao Shu *(Member, IEEE)* received the B.S. degree in microelectronics science and engineering from the Hefei University of Technology, Hefei, China, in 2019, 
 and the Ph.D. degree in electronic science and technology from ShanghaiTech University, Shanghai, China; 
 Shanghai Institute of Microsystem and Information Technology, Chinese Academy of Sciences, Shanghai, China; 
 and the University of Chinese Academy of Sciences, Beijing, China, in 2025.
